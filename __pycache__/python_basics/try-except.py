@@ -11,4 +11,4 @@ for each in a:
         print("I am from else block")
     finally:
         print("No matter, I am from Finally block and getting executed")
-        print("committed to git successfully")
+        print("committed to git successfully ")
